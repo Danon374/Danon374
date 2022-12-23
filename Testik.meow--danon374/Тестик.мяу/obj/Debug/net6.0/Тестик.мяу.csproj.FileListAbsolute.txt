@@ -1,0 +1,17 @@
+D:\source\repos\Тестик.мяу\Тестик.мяу\bin\Debug\net6.0\Тестик.мяу.exe
+D:\source\repos\Тестик.мяу\Тестик.мяу\bin\Debug\net6.0\Тестик.мяу.deps.json
+D:\source\repos\Тестик.мяу\Тестик.мяу\bin\Debug\net6.0\Тестик.мяу.runtimeconfig.json
+D:\source\repos\Тестик.мяу\Тестик.мяу\bin\Debug\net6.0\Тестик.мяу.dll
+D:\source\repos\Тестик.мяу\Тестик.мяу\bin\Debug\net6.0\Тестик.мяу.pdb
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.csproj.AssemblyReference.cache
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.AssemblyInfoInputs.cache
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.AssemblyInfo.cs
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.csproj.CoreCompileInputs.cache
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.dll
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\refint\Тестик.мяу.dll
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.pdb
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.genruntimeconfig.cache
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\ref\Тестик.мяу.dll
+D:\source\repos\Тестик.мяу\Тестик.мяу\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\source\repos\Тестик.мяу\Тестик.мяу\obj\Debug\net6.0\Тестик.мяу.csproj.CopyComplete
